@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jakob Pena</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakobpena" alt="jakobpena" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/deadlyxgho5t" target="blank"><img src="https://img.shields.io/twitter/follow/deadlyxgho5t?logo=twitter&style=for-the-badge" alt="deadlyxgho5t" /></a> </p>
 
