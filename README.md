@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakob Pena</h1>
-
 <p align="left"> <a href="https://twitter.com/deadlyxgho5t" target="blank"><img src="https://img.shields.io/twitter/follow/deadlyxgho5t?logo=twitter&style=for-the-badge" alt="deadlyxgho5t" /></a> </p>
 
 - 🌱 I’m currently learning **CS50**
 
-- 📫 How to reach me **jakobdpena@outlook.com**
+- 📫 You can reach me at **jakobdpena@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
